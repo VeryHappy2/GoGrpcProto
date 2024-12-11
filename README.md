@@ -1,1 +1,1 @@
-# GoGrpcProto
+# GoGrpcProtos
